@@ -70,7 +70,4 @@
 <li>
 	-Presupuesto económico calidad precio y otro mas equilibrado (2 presupuestos)</p>
 </li>
-<br>
-</body>
-</html>
 
