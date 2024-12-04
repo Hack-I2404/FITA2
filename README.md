@@ -68,6 +68,6 @@
 <li>	-Gasto energético de los dispositivos
 <br><br>
 <li>
-	-Presupuesto económico calidad precio y otro mas equilibrado (2 presupuestos)</p>
+	-Presupuesto económico calidad precio y otro mas equilibrado (2 presupuestos)
 </li>
 
